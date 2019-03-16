@@ -1,0 +1,57 @@
+body{
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    color:#747474;
+    max-width: 950px;
+    margin:auto;
+}
+.docplanner-header{
+    box-sizing: border-box;
+    display:flex;
+    position:relative;
+}
+.docplanner-logo {
+    width: 268px;
+    height: 33px;
+}
+.header-main-menu{
+    display:flex;
+    position: relative;
+    float: right;
+}
+.different{
+ color: #00b39b;
+ display: block;
+ text-decoration: none;
+ padding: 0 .6em;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+img {
+    border: 0;
+}
+a{
+    color:#747474;
+    text-decoration: none;
+ 
+}
+.header-main-menu{
+    margin:23px;
+    color: #ababab;
+    display: block;
+    text-decoration: none;
+    padding: 0 .6em;
+    }
+
+.card{
+    display:flex;
+}
+.brands__logos{
+   display:flex;
+   flex-wrap:wrap;
+   color:#00b39b; 
+}
+.office__image{
+    border-radius: 20px;
+}
